@@ -1,5 +1,5 @@
 name: FlashsSleepPlugin
-version: '${project.version}'
+version: '1.0.1-SNAPSHOT'
 main: de.flashcodes.minecraft.flashssleepplugin.FlashsSleepPlugin
 api-version: 1.19
 authors: [ flash_btw ]
