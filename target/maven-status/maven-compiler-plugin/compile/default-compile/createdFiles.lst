@@ -3,3 +3,4 @@ de\flashcodes\minecraft\flashssleepplugin\config\staticvar\ConfigPaths.class
 de\flashcodes\minecraft\flashssleepplugin\events\SleepingFail$1.class
 de\flashcodes\minecraft\flashssleepplugin\config\ConfigManager.class
 de\flashcodes\minecraft\flashssleepplugin\events\SleepingFail.class
+de\flashcodes\minecraft\flashssleepplugin\events\BedEnter.class
