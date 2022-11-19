@@ -1,9 +1,0 @@
-# This plugin uses MiniMessage for Text-Formatting.
-# The documenation can be found here: https://docs.adventure.kyori.net/minimessage/format.html
-
-bed-fail:
-  still-day: "<rainbow>You can't sleep now, Sleepy-Head</rainbow>"
-  monsters-nearby: "<red>Killer-Machines nearby!</red>"
-  obstructed: "<green>Space around your bed seems a bit tight</green>"
-  too-far-away: "<blue>You can't jump that far</blue>"
-  other: "<rainbow>Other Problems entering bed occured!</rainbow>"

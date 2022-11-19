@@ -1,8 +1,0 @@
-name: FlashsSleepPlugin
-version: '1.0.1-SNAPSHOT'
-main: de.flashcodes.minecraft.flashssleepplugin.FlashsSleepPlugin
-api-version: 1.19
-authors: [ flash_btw ]
-description: Some fun Sleeping Functions
-depend:
-  - FlashLib
