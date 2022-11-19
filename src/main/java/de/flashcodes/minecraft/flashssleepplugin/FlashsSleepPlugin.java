@@ -18,10 +18,13 @@ public final class FlashsSleepPlugin extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
+        log.info("Setting necessary static variables");
         setLogger(this.getLogger());
         setPlugin(this);
+        log.info("Loading Events..");
         Bukkit.getPluginManager().registerEvents(new SleepingFail(), this);
         Bukkit.getPluginManager().registerEvents(new BedEnter(), this);
+        log.info("Loaded Events!");
         this.saveDefaultConfig();
     }
 
